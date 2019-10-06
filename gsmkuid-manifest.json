@@ -5,7 +5,7 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#151a1e",
-  "scope": "/",
+  "scope": "https://www.gsmku.id/",
   "description": "Gsmku.id adalah situs yang menyajikan informasi lengkap tentang harga, spesifikasi dan review smartphone android.",
   "icons": [{
     "src": "https://2.bp.blogspot.com/-6k0fq41cTX0/XSLdMeGWpxI/AAAAAAAAADc/SzDXn7POxyQ4d_gBM8UmoxploXoyeI69gCLcBGAs/s48/gsmkuid-icon.png",
